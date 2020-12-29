@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ind2\ind2\bin\Debug\ind2.exe.config
+C:\Users\User\source\repos\ind2\ind2\bin\Debug\ind2.exe
+C:\Users\User\source\repos\ind2\ind2\bin\Debug\ind2.pdb
+C:\Users\User\source\repos\ind2\ind2\obj\Debug\ind2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ind2\ind2\obj\Debug\ind2.Form1.resources
+C:\Users\User\source\repos\ind2\ind2\obj\Debug\ind2.Properties.Resources.resources
+C:\Users\User\source\repos\ind2\ind2\obj\Debug\ind2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ind2\ind2\obj\Debug\ind2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ind2\ind2\obj\Debug\ind2.exe
+C:\Users\User\source\repos\ind2\ind2\obj\Debug\ind2.pdb
