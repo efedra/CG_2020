@@ -1,0 +1,48 @@
+C:\Users\nica\Documents\studies\CG\lab_3D_1\CG_3D\bin\Debug\CG_3D.exe.config
+C:\Users\nica\Documents\studies\CG\lab_3D_1\CG_3D\bin\Debug\CG_3D.exe
+C:\Users\nica\Documents\studies\CG\lab_3D_1\CG_3D\bin\Debug\CG_3D.pdb
+C:\Users\nica\Documents\studies\CG\lab_3D_1\CG_3D\obj\Debug\CG_3D.csprojAssemblyReference.cache
+C:\Users\nica\Documents\studies\CG\lab_3D_1\CG_3D\obj\Debug\CG_3D.Form1.resources
+C:\Users\nica\Documents\studies\CG\lab_3D_1\CG_3D\obj\Debug\CG_3D.Properties.Resources.resources
+C:\Users\nica\Documents\studies\CG\lab_3D_1\CG_3D\obj\Debug\CG_3D.csproj.GenerateResource.cache
+C:\Users\nica\Documents\studies\CG\lab_3D_1\CG_3D\obj\Debug\CG_3D.csproj.CoreCompileInputs.cache
+C:\Users\nica\Documents\studies\CG\lab_3D_1\CG_3D\obj\Debug\CG_3D.exe
+C:\Users\nica\Documents\studies\CG\lab_3D_1\CG_3D\obj\Debug\CG_3D.pdb
+C:\Users\OperatorPC\Downloads\Telegram Desktop\CG_3D\CG_3D\bin\Debug\CG_3D.exe.config
+C:\Users\OperatorPC\Downloads\Telegram Desktop\CG_3D\CG_3D\bin\Debug\CG_3D.exe
+C:\Users\OperatorPC\Downloads\Telegram Desktop\CG_3D\CG_3D\bin\Debug\CG_3D.pdb
+C:\Users\OperatorPC\Downloads\Telegram Desktop\CG_3D\CG_3D\obj\Debug\CG_3D.csprojAssemblyReference.cache
+C:\Users\OperatorPC\Downloads\Telegram Desktop\CG_3D\CG_3D\obj\Debug\CG_3D.Form1.resources
+C:\Users\OperatorPC\Downloads\Telegram Desktop\CG_3D\CG_3D\obj\Debug\CG_3D.Properties.Resources.resources
+C:\Users\OperatorPC\Downloads\Telegram Desktop\CG_3D\CG_3D\obj\Debug\CG_3D.csproj.GenerateResource.cache
+C:\Users\OperatorPC\Downloads\Telegram Desktop\CG_3D\CG_3D\obj\Debug\CG_3D.exe
+C:\Users\OperatorPC\Downloads\Telegram Desktop\CG_3D\CG_3D\obj\Debug\CG_3D.pdb
+C:\Users\User\source\repos\CG_3D\obj\Debug\CG_3D.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CG_3D\obj\Debug\CG_3D.Form1.resources
+C:\Users\User\source\repos\CG_3D\obj\Debug\CG_3D.Properties.Resources.resources
+C:\Users\User\source\repos\CG_3D\obj\Debug\CG_3D.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CG_3D\obj\Debug\CG_3D.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CG_3D\obj\Debug\CG_3D.exe
+C:\Users\User\source\repos\CG_3D\obj\Debug\CG_3D.pdb
+C:\Users\User\source\repos\CG_3D\bin\Debug\CG_3D.exe.config
+C:\Users\User\source\repos\CG_3D\bin\Debug\CG_3D.exe
+C:\Users\User\source\repos\CG_3D\bin\Debug\CG_3D.pdb
+C:\Users\OperatorPC\Desktop\CG_3D (2)\CG_3D\bin\Debug\CG_3D.exe.config
+C:\Users\OperatorPC\Desktop\CG_3D (2)\CG_3D\bin\Debug\CG_3D.exe
+C:\Users\OperatorPC\Desktop\CG_3D (2)\CG_3D\bin\Debug\CG_3D.pdb
+C:\Users\OperatorPC\Desktop\CG_3D (2)\CG_3D\obj\Debug\CG_3D.csprojAssemblyReference.cache
+C:\Users\OperatorPC\Desktop\CG_3D (2)\CG_3D\obj\Debug\CG_3D.Form1.resources
+C:\Users\OperatorPC\Desktop\CG_3D (2)\CG_3D\obj\Debug\CG_3D.Properties.Resources.resources
+C:\Users\OperatorPC\Desktop\CG_3D (2)\CG_3D\obj\Debug\CG_3D.csproj.GenerateResource.cache
+C:\Users\OperatorPC\Desktop\CG_3D (2)\CG_3D\obj\Debug\CG_3D.exe
+C:\Users\OperatorPC\Desktop\CG_3D (2)\CG_3D\obj\Debug\CG_3D.pdb
+C:\Users\nica\Documents\studies\CG\CG_3D\CG_3D\bin\Debug\CG_3D.exe.config
+C:\Users\nica\Documents\studies\CG\CG_3D\CG_3D\bin\Debug\CG_3D.exe
+C:\Users\nica\Documents\studies\CG\CG_3D\CG_3D\bin\Debug\CG_3D.pdb
+C:\Users\nica\Documents\studies\CG\CG_3D\CG_3D\obj\Debug\CG_3D.csprojAssemblyReference.cache
+C:\Users\nica\Documents\studies\CG\CG_3D\CG_3D\obj\Debug\CG_3D.Form1.resources
+C:\Users\nica\Documents\studies\CG\CG_3D\CG_3D\obj\Debug\CG_3D.Properties.Resources.resources
+C:\Users\nica\Documents\studies\CG\CG_3D\CG_3D\obj\Debug\CG_3D.csproj.GenerateResource.cache
+C:\Users\nica\Documents\studies\CG\CG_3D\CG_3D\obj\Debug\CG_3D.csproj.CoreCompileInputs.cache
+C:\Users\nica\Documents\studies\CG\CG_3D\CG_3D\obj\Debug\CG_3D.exe
+C:\Users\nica\Documents\studies\CG\CG_3D\CG_3D\obj\Debug\CG_3D.pdb
