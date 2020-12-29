@@ -1,0 +1,34 @@
+uniform struct PointLight{
+	vec4 position;
+	vec4 ambient;
+	vec4 diffuse;
+	vec4 specular;
+	vec3 attenuation;
+} light;
+uniform struct Material{
+	sampler2D texture1;
+	sampler2D texture2;
+	vec4 ambient;
+	vec4 diffuse;
+	vec4 specular;
+	vec4 emission;
+	float shininess;
+	vec4 color_obj;
+} material;
+
+in struct Vertex {
+	vec2 texcoord;
+	vec3 normal;
+	vec3 lightDir;
+	vec3 viewDir;
+	float distance;
+} Vert;
+const vec4 color0 = vec4(0.5,0.0,0.0,1.0);
+const vec4 color1 = vec4(0.5,0.0,0.5,1.0);
+void main() {
+	vec3 normal = normalize(Vert.normal);
+	vec3 lightDir = normalize(Vert.lightDir);
+
+	vec4 diff = color0*max(dot(normal,lightDir),0.0) + color1*max(dot(normal,-lightDir),0.0);
+	gl_FragColor = diff;
+}
