@@ -1,0 +1,38 @@
+C:\Users\OperatorPC\source\repos\CG_lab7\obj\Debug\CG_lab7.csprojAssemblyReference.cache
+C:\Users\OperatorPC\source\repos\CG_lab7\obj\Debug\CG_lab7.Form1.resources
+C:\Users\OperatorPC\source\repos\CG_lab7\obj\Debug\CG_lab7.Properties.Resources.resources
+C:\Users\OperatorPC\source\repos\CG_lab7\obj\Debug\CG_lab7.csproj.GenerateResource.cache
+C:\Users\OperatorPC\source\repos\CG_lab7\bin\Debug\CG_lab7.exe.config
+C:\Users\OperatorPC\source\repos\CG_lab7\bin\Debug\CG_lab7.exe
+C:\Users\OperatorPC\source\repos\CG_lab7\bin\Debug\CG_lab7.pdb
+C:\Users\OperatorPC\source\repos\CG_lab7\obj\Debug\CG_lab7.exe
+C:\Users\OperatorPC\source\repos\CG_lab7\obj\Debug\CG_lab7.pdb
+C:\Users\User\source\repos\CG_lab7\bin\Debug\CG_lab7.exe.config
+C:\Users\User\source\repos\CG_lab7\bin\Debug\CG_lab7.exe
+C:\Users\User\source\repos\CG_lab7\bin\Debug\CG_lab7.pdb
+C:\Users\User\source\repos\CG_lab7\obj\Debug\CG_lab7.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CG_lab7\obj\Debug\CG_lab7.Form1.resources
+C:\Users\User\source\repos\CG_lab7\obj\Debug\CG_lab7.Properties.Resources.resources
+C:\Users\User\source\repos\CG_lab7\obj\Debug\CG_lab7.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CG_lab7\obj\Debug\CG_lab7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CG_lab7\obj\Debug\CG_lab7.exe
+C:\Users\User\source\repos\CG_lab7\obj\Debug\CG_lab7.pdb
+C:\Users\OperatorPC\Downloads\Telegram Desktop\CG_lab7\CG_lab7\bin\Debug\CG_lab7.exe.config
+C:\Users\OperatorPC\Downloads\Telegram Desktop\CG_lab7\CG_lab7\bin\Debug\CG_lab7.exe
+C:\Users\OperatorPC\Downloads\Telegram Desktop\CG_lab7\CG_lab7\bin\Debug\CG_lab7.pdb
+C:\Users\OperatorPC\Downloads\Telegram Desktop\CG_lab7\CG_lab7\obj\Debug\CG_lab7.csprojAssemblyReference.cache
+C:\Users\OperatorPC\Downloads\Telegram Desktop\CG_lab7\CG_lab7\obj\Debug\CG_lab7.Form1.resources
+C:\Users\OperatorPC\Downloads\Telegram Desktop\CG_lab7\CG_lab7\obj\Debug\CG_lab7.Properties.Resources.resources
+C:\Users\OperatorPC\Downloads\Telegram Desktop\CG_lab7\CG_lab7\obj\Debug\CG_lab7.csproj.GenerateResource.cache
+C:\Users\OperatorPC\Downloads\Telegram Desktop\CG_lab7\CG_lab7\obj\Debug\CG_lab7.exe
+C:\Users\OperatorPC\Downloads\Telegram Desktop\CG_lab7\CG_lab7\obj\Debug\CG_lab7.pdb
+C:\Users\nica\Documents\studies\CG\CG_lab7\bin\Debug\CG_lab7.exe.config
+C:\Users\nica\Documents\studies\CG\CG_lab7\bin\Debug\CG_lab7.exe
+C:\Users\nica\Documents\studies\CG\CG_lab7\bin\Debug\CG_lab7.pdb
+C:\Users\nica\Documents\studies\CG\CG_lab7\obj\Debug\CG_lab7.csprojAssemblyReference.cache
+C:\Users\nica\Documents\studies\CG\CG_lab7\obj\Debug\CG_lab7.Form1.resources
+C:\Users\nica\Documents\studies\CG\CG_lab7\obj\Debug\CG_lab7.Properties.Resources.resources
+C:\Users\nica\Documents\studies\CG\CG_lab7\obj\Debug\CG_lab7.csproj.GenerateResource.cache
+C:\Users\nica\Documents\studies\CG\CG_lab7\obj\Debug\CG_lab7.csproj.CoreCompileInputs.cache
+C:\Users\nica\Documents\studies\CG\CG_lab7\obj\Debug\CG_lab7.exe
+C:\Users\nica\Documents\studies\CG\CG_lab7\obj\Debug\CG_lab7.pdb
