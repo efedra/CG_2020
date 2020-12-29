@@ -1,0 +1,10 @@
+C:\Users\nica\Documents\studies\CG\lab9\lab9\bin\Release\lab9.exe.config
+C:\Users\nica\Documents\studies\CG\lab9\lab9\bin\Release\lab9.exe
+C:\Users\nica\Documents\studies\CG\lab9\lab9\bin\Release\lab9.pdb
+C:\Users\nica\Documents\studies\CG\lab9\lab9\obj\Release\lab9.csprojAssemblyReference.cache
+C:\Users\nica\Documents\studies\CG\lab9\lab9\obj\Release\lab9.Form1.resources
+C:\Users\nica\Documents\studies\CG\lab9\lab9\obj\Release\lab9.Properties.Resources.resources
+C:\Users\nica\Documents\studies\CG\lab9\lab9\obj\Release\lab9.csproj.GenerateResource.cache
+C:\Users\nica\Documents\studies\CG\lab9\lab9\obj\Release\lab9.csproj.CoreCompileInputs.cache
+C:\Users\nica\Documents\studies\CG\lab9\lab9\obj\Release\lab9.exe
+C:\Users\nica\Documents\studies\CG\lab9\lab9\obj\Release\lab9.pdb
